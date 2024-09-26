@@ -1,0 +1,66 @@
+
+  /* Navbar css */
+nav {
+  height: 80px;
+  display: flex;
+  /* background-color: blue; */
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.5);
+  align-items: center;
+}
+
+h3 {
+  margin-right: auto;
+  padding: 0 20px;
+  justify-content: space-between;
+}
+
+#nav-img {
+  height: 70px;
+  /* width: 50px; */
+  margin-right: auto;
+}
+
+h3 {
+  margin: 0 7px;
+}
+
+#hero-img1 {
+width: 70%;
+/* align-items: center; */
+display: flex;
+/* justify-content: center; */
+margin: 30px auto;
+}
+
+   /*  Footer css */
+ 
+#contact-menu {
+  text-align: center;
+  padding: 20px;
+  background-color: #343a40;
+  color: white;
+}
+
+.contact-no {
+  display: flex;
+  margin: 10px;
+}
+
+#list1 {
+margin: 20px auto;
+text-align: center;
+align-items: center;
+
+}
+#foot-terms {
+  display: flex;
+  justify-content: space-around;
+}
+
+#foot-globe {
+  width: 20px;
+}
+#foot-no {
+margin-top: 20px;
+}
+
